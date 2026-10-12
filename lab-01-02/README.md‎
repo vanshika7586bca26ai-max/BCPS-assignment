@@ -38,8 +38,7 @@ cd ..
 dir
 rmdir Empty
 type Archive\revision.txt
-```
-
+``
 ## Expected result
 
 ```text
